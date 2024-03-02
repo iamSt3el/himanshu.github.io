@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Himanshu</title>
-    <link>https://himanshu.github.io/posts/</link>
+    <link>https://iamSt3el.github.io/posts/</link>
     <description>Recent content in Posts on Himanshu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Mar 2024 23:10:21 +0530</lastBuildDate>
-    <atom:link href="https://himanshu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamSt3el.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Blog</title>
-      <link>https://himanshu.github.io/posts/first-blog/</link>
+      <link>https://iamSt3el.github.io/posts/first-blog/</link>
       <pubDate>Sat, 02 Mar 2024 23:10:21 +0530</pubDate>
-      <guid>https://himanshu.github.io/posts/first-blog/</guid>
+      <guid>https://iamSt3el.github.io/posts/first-blog/</guid>
       <description>My first Post I will later delete it.&#xA;How to print your name in c++&#xA;#include &amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;Himanshu&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } </description>
     </item>
   </channel>
