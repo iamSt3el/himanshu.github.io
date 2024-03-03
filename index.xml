@@ -6,14 +6,14 @@
     <description>Recent content on Himanshu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 23:10:21 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://iamSt3el.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Blog</title>
+      <title>Created a Legal Chatbot for a Hackathon: A Journey in AI and Law</title>
       <link>https://iamSt3el.github.io/posts/first-blog/</link>
-      <pubDate>Sat, 02 Mar 2024 23:10:21 +0530</pubDate>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://iamSt3el.github.io/posts/first-blog/</guid>
-      <description>My first Post I will later delete it.&#xA;How to print your name in c++&#xA;#include &amp;lt;iostream&amp;gt; int main(){ std::cout &amp;lt;&amp;lt; &amp;#34;Himanshu&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } </description>
+      <description>Introduction At a recent 24-hour hackathon, my team and I took on the challenge of creating a legal chatbot to provide simple and informative information related to legal queries and questions related to crime in India. In this blog post, I&amp;rsquo;ll walk you through our journey of developing this chatbot, the tools and technologies we used, and the lessons we learned along the way.&#xA;Background The hackathon, held in Chandigarh, gathered teams of developers, designers, and innovators to tackle real-world problems in a limited timeframe.</description>
     </item>
   </channel>
 </rss>
