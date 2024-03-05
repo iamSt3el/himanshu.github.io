@@ -6,14 +6,6 @@
     <description>Recent content on Himanshu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://iamSt3el.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Created a Legal Chatbot for a Hackathon: A Journey in AI and Law</title>
-      <link>https://iamSt3el.github.io/posts/first-blog/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://iamSt3el.github.io/posts/first-blog/</guid>
-      <description>Introduction At a recent 24-hour hackathon, my team and I took on the challenge of creating a legal chatbot to provide simple and informative information related to legal queries and questions related to crime in India. In this blog post, I&amp;rsquo;ll walk you through our journey of developing this chatbot, the tools and technologies we used, and the lessons we learned along the way.&#xA;Background The hackathon, held in Chandigarh, gathered teams of developers, designers, and innovators to tackle real-world problems in a limited timeframe.</description>
-    </item>
   </channel>
 </rss>
