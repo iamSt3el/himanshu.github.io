@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Himanshu</title>
-    <link>https://iamSt3el.github.io/</link>
-    <description>Recent content on Himanshu</description>
+    <title>Em on Himanshu</title>
+    <link>http://localhost:1313/tags/em/</link>
+    <description>Recent content in Em on Himanshu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Mar 2024 06:37:34 +0530</lastBuildDate>
-    <atom:link href="https://iamSt3el.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/em/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to compile your c/c&#43;&#43; coded game to WebAssembly with Emscripten</title>
-      <link>https://iamSt3el.github.io/blogs/first/</link>
+      <link>http://localhost:1313/blogs/first/</link>
       <pubDate>Fri, 08 Mar 2024 06:37:34 +0530</pubDate>
-      <guid>https://iamSt3el.github.io/blogs/first/</guid>
+      <guid>http://localhost:1313/blogs/first/</guid>
       <description>Indroduction Sharing your C++ games online can be tricky since web browsers can&amp;rsquo;t run them directly. But fear not!We have a solution: WebAssembly.&#xA;WebAssembly(or WASM for short) lets us convert C++ code into a format that browesers understand. This means your games can now run smoothly right inside a web page.&#xA;In this blog , we&amp;rsquo;ll use Emscripten to convert C++ code into WebAssembly to showcase your C++ games online.</description>
     </item>
   </channel>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Himanshu</title>
-    <link>https://iamSt3el.github.io/</link>
-    <description>Recent content on Himanshu</description>
+    <title>Emscripten on Himanshu</title>
+    <link>https://iamSt3el.github.io/tags/emscripten/</link>
+    <description>Recent content in Emscripten on Himanshu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Mar 2024 06:37:34 +0530</lastBuildDate>
-    <atom:link href="https://iamSt3el.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamSt3el.github.io/tags/emscripten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to compile your c/c&#43;&#43; coded game to WebAssembly with Emscripten</title>
       <link>https://iamSt3el.github.io/blogs/first/</link>
